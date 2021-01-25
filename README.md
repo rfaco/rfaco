@@ -11,7 +11,7 @@
 Feel free to reach me and chat. Take care :D
 
 - 🔭 I’m currently working on TrueChange as a Front End developer.
-- 🌱 I’m currently learning React, Vue and React Native. 
+- 🌱 I’m currently learning React and Vue.
 - ⚡ Fun fact: I had a chance to create a patch of Winning Eleven game almost 10 years ago. Really cool!
 
 ### I'm good with: <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
