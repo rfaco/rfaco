@@ -1,3 +1,5 @@
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frodjaa
+
 ### Hi, folks 👋
 
  I'm Roger, from Curitiba-PR - Brazil.
