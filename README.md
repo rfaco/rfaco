@@ -6,7 +6,7 @@
 ### Hi, folks 👋
 
  I'm Roger, from Curitiba-PR - Brazil.
- I'm a Front-End Developer with almost 3 years of experience. I also have +8 years working as a IT Analyst. Also a sports fan! Running, hiking, soccer, baskteball, curling, swuimming, "frescoball", gamer, camping, cycling, etc..
+ I'm a Front-End Developer with almost 3 years of experience. I also have +8 years working as a IT Analyst. The last but not the least, I'm a sports fan! Running, hiking, soccer, baskteball, curling, swuimming, "frescoball", gamer, camping, cycling, etc..
 
 Feel free to reach me and chat. Take care :D
 
