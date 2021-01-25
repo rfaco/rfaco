@@ -6,7 +6,7 @@
 ### Hi, folks 👋
 
  I'm Roger, from Curitiba-PR - Brazil.
- I'm a Front-End Developer with almost 3 years of experience. I also have +8 years working as a IT Analyst. Last but not the least, I'm a sports fan! Running, hiking, soccer, baskteball, curling, swuimming, "frescoball", gamer, camping, cycling, etc..
+ I'm a Front-End Developer with almost 3 years of experience. I also have +8 years working as a IT Analyst. Last but not the least, I'm a sports fan! Running, hiking, soccer, baskteball, curling, swimming, "frescoball", gamer, camping, cycling, etc..
 
 - 🔭 I’m currently working on TrueChange as a Front End developer.
 - 🌱 I’m currently learning React and Vue.
