@@ -1,4 +1,4 @@
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frodjaa
+![Twitter Follow](https://img.shields.io/twitter/follow/rodjaa?label=Twitter%20%40rodjaa&style=social)
 
 ### Hi, folks 👋
 
