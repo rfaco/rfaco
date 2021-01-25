@@ -1,4 +1,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rodjaa?label=Twitter%20%40rodjaa&style=social)
+[![Linkedin Badge](https://img.shields.io/badge/-rogerfaco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerfaco/)](https://www.linkedin.com/in/rogerfaco/)
+[![Gmail Badge](https://img.shields.io/badge/-rfacodeva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rd=rfacodev@gmail.com)](mailto:rfacodev@gmail.com)
+
 
 ### Hi, folks 👋
 
