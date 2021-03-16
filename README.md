@@ -9,7 +9,6 @@
  I'm a Front-End Developer with almost 3 years of experience. I also have +8 years working as a IT Analyst. Last but not the least, I'm a sports fan! Running, hiking, soccer, baskteball, curling, swimming, "frescoball", gamer, camping, cycling, etc..
 
 - 🔭 I’m currently working on TrueChange as a Front End developer.
-- 🌱 I’m currently learning React and Vue.
 - ⚡ Fun fact: I had a chance to create a patch of Winning Eleven game almost 10 years ago. Really cool!
 
 Feel free to reach me and chat. Take care :D
