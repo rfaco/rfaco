@@ -5,7 +5,6 @@
 
 ### Hi, folks 👋
 
- I'm Roger, from Curitiba-PR - Brazil.
  I'm a Front-End Developer just coding, learning, coding, watching NBA, learning, coding... and so on..
 - 🔭 I’m currently working on TrueChange as a Front End developer.
 
