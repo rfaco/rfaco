@@ -1,6 +1,4 @@
-### Hi, folks 👋
-
-developer who likes a lot of sports.
+### Hi, folks 🤙
 
 start with simple and make it complex, not the opposite.
 
